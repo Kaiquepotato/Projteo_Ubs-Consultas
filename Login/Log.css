@@ -1,8 +1,10 @@
 body {
-    background: linear-gradient(rgba(41, 187, 161, 1) , rgba(52, 187, 41, 1));
+    background:aquamarine;
     animation: 30s;
 }
-
+.fundo {
+    color: rgb(56, 236, 176);
+}
 .vai {
-    color: chartreuse;
+    color: rgb(0, 0, 0);
 }
