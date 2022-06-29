@@ -2,9 +2,59 @@ body {
     background:aquamarine;
     animation: 30s;
 }
+
+.box-parent-login {
+    text-align: center;
+    position: relative;
+}
+
+.inputUsuario {
+    padding: 5px;
+    width: 60%;
+    margin-bottom: 10px;
+}
+
+.nameUsuario{
+    margin-left: 10px;
+}
+
+.senhaUsuario {
+    padding: 5px;
+    width: 60%;
+    margin-bottom: 10px;
+}
+
+.nameSenhaU {
+    margin-left: 0px;
+}
+
+.botaoLogin {
+    padding: 7px 10px;
+    background-color: chartreuse;
+    color: rgb(0, 0, 0);
+    outline: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+#field {   
+    background-color: white;
+    position: absolute;
+    top: 155%;
+    left: 55%;
+    padding: 100px;
+    width: 300px;
+}
+
+form-group .ls-login-user{
+    padding: 20px;
+}
+
+/*
 .fundo {
     color: rgb(56, 236, 176);
-}
+}*/
+
 .vai {
     color: rgb(0, 0, 0);
 }
